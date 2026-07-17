@@ -1,5 +1,5 @@
 {
-    "allowed": false,
+    "allowed": true,
     "minimum_version": "0.1.0",
     "latest_version": "0.1.0",
     "message": "The demo period has ended, please contact us"
